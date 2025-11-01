@@ -96,7 +96,16 @@ This project is licensed under the MIT License - see the LICENSE file for detail
   <h4 align="center">
     The core contributors are the cornerstone of the project.
   </h4>
-  <a href="https://github.com/YuzeHao2023/MCP-oura/graphs/contributors">
-    <img src="https://github.com/YuzeHao2023/MCP-oura" />
+  <a href="https://github.com/YuzeHao2023" target="_blank">
+    <img src="https://github.com/YuzeHao2023.png" width="100" height="100" style="border-radius: 50%; margin: 0 10px; object-fit: cover;" alt="YuzeHao2023" />
+  </a>
+  <a href="https://github.com/dvlan26" target="_blank">
+    <img src="https://github.com/dvlan26.png" width="100" height="100" style="border-radius: 50%; margin: 0 10px; object-fit: cover;" alt="dvlan26" />
+  </a>  
+  <a href="https://github.com/halamji" target="_blank">
+    <img src="https://github.com/halamji.png" width="100" height="100" style="border-radius: 50%; margin: 0 10px; object-fit: cover;" alt="halamji" />
+  </a>
+  <a href="https://github.com/yzhao112" target="_blank">
+    <img src="https://github.com/yzhao112.png" width="100" height="100" style="border-radius: 50%; margin: 0 10px; object-fit: cover;" alt="yzhao112" />
   </a>
 </div>
